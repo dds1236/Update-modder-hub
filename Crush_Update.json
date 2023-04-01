@@ -4,9 +4,10 @@
   "Cancel_Button_Text_Color": "",
   "Cancel_Visibility": "INVISIBLE",
   "Dialog_Message": "CRUSH AX release :~ An update released update the app to the latest version. Thanks for using!",
-  "Dialog_Submessage": "What's New ! 1. Bug fix
+  "Dialog_Submessage": "What's New !
+\n1. Bug fix
 \n2. Optimize App
-3. Updated panel files..",
+\n3. Updated panel files..",
   "Dialog_Subtitle": "by Crush Ax",
   "Dialog_Title": "New Update",
   "Download_Button_Background": "#FF2E63FF",
